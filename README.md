@@ -14,7 +14,7 @@ The key stakeholders in this task are Urska Srsen and Sando Mur, the cofounders 
 <h2 style="color: #F36C55; font-family: Montserrat;"><b>FINAL INSIGHTS AND SUGGESTIONS</b></h2>
 <br><br>
 <h3 style="color: #F36C55;"><b>INSIGHTS:</b></h3>
-<h5 style="font-family: Montserrat; font-weight: light; line-height: 1.5">
+<h5 style="font-family: Montserrat;">
 1. On an average, highest percentage of the Active Minutes composition is under SedentaryMinutes [81.3%], which means most users spend their day spending under 30 minutes of activity,that is equal to walking for 30 minutes at 4 miles per hour. For an adult of average weight, this amount of exercise will burn about 135 to 165 additional Calories.<br><br>
 Second highest makeup is of Lightly Active minutes [15.8%]. Roughly 3% of the makeup is composed of Very Active and Fairly Active Minutes in total.<br>
 From this we come to know that most of the sample users perform activities of daily living only, such as shopping, cleaning, watering plants, taking out the trash, walking the dog, mowing the lawn, and gardening. While a very small population spends active hours doing aerobics, jogging or skipping.<br><br>
@@ -27,7 +27,7 @@ From this we come to know that most of the sample users perform activities of da
 8. Intensity counts highest between 8 – 11 am in the mornings, while highest between 12-2 pm and 5-7 pm in the afternoons and evenings.</h5>
 <br><br>
 <h3 style="color: #F36C55;"><b>APPLICATION OF INSIGHTS TO BELLABEAT PRODUCTS:</b></h3>
-<h5 style="font-family: Montserrat; font-weight: light; line-height: 1.5">
+<h5 style="font-family: Montserrat;">
 <u>Goal-oriented:</u><br>
     1. For the Bellabeat app, based on the user's data on <i>activity minutes</i>, the app can suggest the user to take a few minutes out to achieve certain set goals and be active throughout the week.<br>
     2. The bellabeat app can monitor user's <i>sleep records</i> and suggest healthy sleeping schedules.<br><br>
